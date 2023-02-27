@@ -1,0 +1,5 @@
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Entidades\bin\Debug\Sistema-Entidades.dll
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Entidades\bin\Debug\Sistema-Entidades.pdb
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Entidades\obj\Debug\Sistema-Entidades.dll
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Entidades\obj\Debug\Sistema-Entidades.pdb
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Entidades\obj\Debug\Sistema-Entidades.csprojResolveAssemblyReference.cache

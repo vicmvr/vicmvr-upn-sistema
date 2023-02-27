@@ -1,0 +1,17 @@
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\bin\Debug\Sistema-Presentacion.exe.config
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\bin\Debug\Sistema-Presentacion.exe
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\bin\Debug\Sistema-Presentacion.pdb
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\bin\Debug\Sistema-Entidades.dll
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\bin\Debug\Sistema-LogicaNegocio.dll
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\bin\Debug\Sistema-AccesoDatos.dll
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\bin\Debug\MySql.Data.dll
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\bin\Debug\Sistema-Entidades.pdb
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\bin\Debug\Sistema-LogicaNegocio.pdb
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\bin\Debug\Sistema-AccesoDatos.pdb
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\obj\Debug\Sistema-Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\obj\Debug\Sistema_Presentacion.FrmPaciente.resources
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\obj\Debug\Sistema_Presentacion.FrmSistema.resources
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\obj\Debug\Sistema_Presentacion.Properties.Resources.resources
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\obj\Debug\Sistema-Presentacion.csproj.GenerateResource.Cache
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\obj\Debug\Sistema-Presentacion.exe
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-Presentacion\obj\Debug\Sistema-Presentacion.pdb

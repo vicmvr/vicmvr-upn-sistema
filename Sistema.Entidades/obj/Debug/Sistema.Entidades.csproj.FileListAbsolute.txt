@@ -1,0 +1,22 @@
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\wamp64\www\upn-sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\wamp64\www\upn-sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\wamp64\www\upn-sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\wamp64\www\upn-sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\wamp64\www\upn-sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\wamp64\www\upn-sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb

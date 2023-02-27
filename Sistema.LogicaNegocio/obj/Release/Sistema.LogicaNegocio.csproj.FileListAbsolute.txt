@@ -1,0 +1,73 @@
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.LogicaNegocio.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.LogicaNegocio.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.AccesoDatos.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.Entidades.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Release\MySql.Data.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Release\Google.Protobuf.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.AccesoDatos.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.Entidades.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Release\MySql.Data.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\obj\Release\Sistema.LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\obj\Release\Sistema.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\obj\Release\Sistema.LogicaNegocio.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\obj\Release\Sistema.LogicaNegocio.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.LogicaNegocio.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.LogicaNegocio.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.AccesoDatos.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.Entidades.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\MySql.Data.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\Google.Protobuf.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\ZstdNet.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\System.Buffers.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.AccesoDatos.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\Sistema.Entidades.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\MySql.Data.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\obj\Release\Sistema.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\obj\Release\Sistema.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\obj\Release\Sistema.LogicaNegocio.csproj.CopyComplete
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\obj\Release\Sistema.LogicaNegocio.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\obj\Release\Sistema.LogicaNegocio.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.DataAccess.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Data.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Xpo.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Printing.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.CodeParser.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Office.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Drawing.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.DataAccess.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Data.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Xpo.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Printing.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Office.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Release\ja\DevExpress.Pdf.v22.1.Core.resources.dll

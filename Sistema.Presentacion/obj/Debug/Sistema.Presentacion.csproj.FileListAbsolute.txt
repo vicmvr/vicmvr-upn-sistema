@@ -1,0 +1,468 @@
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.exe.config
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.exe
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.pdb
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.LogicaNegocio.dll
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.AccesoDatos.dll
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\bin\Debug\MySql.Data.dll
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.LogicaNegocio.pdb
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.AccesoDatos.pdb
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPaciente.resources
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmUsuario.resources
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmSistema.resources
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.Cache
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.exe
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.exe.config
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.exe
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.LogicaNegocio.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.AccesoDatos.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.LogicaNegocio.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.AccesoDatos.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmUsuario.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmSistema.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.Cache
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.exe
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAlumno.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmCredencial.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.XtraReportAlumnos.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.exe.licenses
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmLibro.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Biblioteca.FrmBiblioteca.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Biblioteca.FrmInventarioBiblioteca.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmRecibos.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConexion.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.XtraReportCredencial.resources
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\FlashControlV71.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporte.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.exe.config
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.exe
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.LogicaNegocio.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.AccesoDatos.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\Google.Protobuf.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ZstdNet.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.LogicaNegocio.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\Sistema.AccesoDatos.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.exe.config
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Biblioteca.FrmBiblioteca.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Biblioteca.FrmInventarioBiblioteca.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmDocente.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAlumno.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConexion.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmCredencial.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmLibro.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmRecibos.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmUsuario.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmSistema.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporte.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.XtraReportAlumnos.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.XtraReportCredencial.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.exe.licenses
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.exe
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraReports.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\MySql.Data.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\MySql.Data.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAsignatura.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCarga.resources
+C:\Users\PC03\source\repos\UPNSistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmGrupo.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.exe.config
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Biblioteca.FrmBiblioteca.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Biblioteca.FrmInventarioBiblioteca.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAsignatura.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCarga.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmGrupo.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmDocente.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAlumno.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConexion.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmCredencial.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmLibro.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmRecibos.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Forms.FrmUsuario.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmSistema.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporte.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.XtraReportAlumnos.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.XtraReportRecepcion.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.XtraReportBoletos.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.XtraReportCredencial.resources
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.exe.licenses
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.exe
+C:\wamp64\www\upn-sistema\Sistema.Presentacion\obj\Debug\Sistema.pdb

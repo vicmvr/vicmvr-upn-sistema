@@ -1,0 +1,64 @@
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.LogicaNegocio.dll
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.LogicaNegocio.pdb
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.AccesoDatos.dll
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.LogicaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.AccesoDatos.pdb
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.dll
+C:\Users\Victor\Documents\visual studio 2017\Projects\Sistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.LogicaNegocio.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.LogicaNegocio.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.AccesoDatos.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.AccesoDatos.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.LogicaNegocio.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.LogicaNegocio.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.AccesoDatos.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Google.Protobuf.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\ZstdNet.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\System.Buffers.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.AccesoDatos.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\bin\Debug\MySql.Data.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.csproj.CopyComplete
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.pdb
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.LogicaNegocio.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.LogicaNegocio.pdb
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.AccesoDatos.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.Entidades.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\MySql.Data.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\Google.Protobuf.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\ZstdNet.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\System.Memory.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\System.Buffers.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\System.Numerics.Vectors.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.AccesoDatos.pdb
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\Sistema.Entidades.pdb
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\bin\Debug\MySql.Data.xml
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.csproj.AssemblyReference.cache
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.csproj.CopyComplete
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.dll
+C:\wamp64\www\upn-sistema\Sistema.LogicaNegocio\obj\Debug\Sistema.LogicaNegocio.pdb

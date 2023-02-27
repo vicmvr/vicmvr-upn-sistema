@@ -1,0 +1,29 @@
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.AccesoDatos\bin\Release\Sistema.AccesoDatos.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.AccesoDatos\bin\Release\Sistema.AccesoDatos.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.AccesoDatos\bin\Release\Sistema.Entidades.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.AccesoDatos\bin\Release\Google.Protobuf.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.AccesoDatos\bin\Release\Sistema.Entidades.pdb
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.AccesoDatos\bin\Release\MySql.Data.xml
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.AccesoDatos\obj\Release\Sistema.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.AccesoDatos\obj\Release\Sistema.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.AccesoDatos\obj\Release\Sistema.AccesoDatos.dll
+C:\Users\Victor\Dropbox\Developers\Proyectos 2017\UPNSistema\Sistema.AccesoDatos\obj\Release\Sistema.AccesoDatos.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\Sistema.AccesoDatos.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\Sistema.AccesoDatos.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\MySql.Data.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\Sistema.Entidades.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\Google.Protobuf.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\ZstdNet.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\System.Buffers.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\Sistema.Entidades.pdb
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\bin\Release\MySql.Data.xml
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\obj\Release\Sistema.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\obj\Release\Sistema.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\obj\Release\Sistema.AccesoDatos.csproj.CopyComplete
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\obj\Release\Sistema.AccesoDatos.dll
+C:\Users\PC03\source\repos\UPNSistema\Sistema.AccesoDatos\obj\Release\Sistema.AccesoDatos.pdb

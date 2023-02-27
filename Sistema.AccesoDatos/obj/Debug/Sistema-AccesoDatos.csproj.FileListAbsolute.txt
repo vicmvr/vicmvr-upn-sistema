@@ -1,0 +1,8 @@
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-AccesoDatos\bin\Debug\Sistema-AccesoDatos.dll
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-AccesoDatos\bin\Debug\Sistema-AccesoDatos.pdb
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-AccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-AccesoDatos\bin\Debug\Sistema-Entidades.dll
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-AccesoDatos\bin\Debug\Sistema-Entidades.pdb
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-AccesoDatos\obj\Debug\Sistema-AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-AccesoDatos\obj\Debug\Sistema-AccesoDatos.dll
+C:\Users\Victor\documents\visual studio 2017\Projects\Sistema\Sistema-AccesoDatos\obj\Debug\Sistema-AccesoDatos.pdb
